@@ -1,2 +1,2 @@
 # ToDo-List
-Simple ToDo list. Created within jquery training.
+ToDo list. Created within jquery training.
